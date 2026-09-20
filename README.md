@@ -23,7 +23,7 @@ Traditional AI is built from **explicit rules written by humans**:
 From a Windows terminal (PowerShell or Command Prompt):
 
 ```powershell
-cd "C:\0. IMPORTANTE - atmira---Curso-AI-SDD-main\Curso Udemy 1 AI Para programadores\Lesson 2 - What is AI\sample 1"
+cd "C:\...\Lesson 2 - What is AI\sample 1"
 python app.py
 ```
 
