@@ -1,4 +1,4 @@
-# Sample 1 — Traditional AI: Rule-Based Systems
+# Sample 1 - Traditional AI: Rule-Based Systems
 
 This sample accompanies the slide **"1. Traditional AI — Rule-Based Systems"** from the lesson *What Is Artificial Intelligence?*
 
